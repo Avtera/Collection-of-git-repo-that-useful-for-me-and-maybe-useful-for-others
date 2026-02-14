@@ -1,5 +1,9 @@
 # Collection of git repo that useful for me and maybe useful for others
 
+### Alternative to Proprietary
+1. [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30)
+   Control some Soundcore headphones/earbuds via desktop
+
 ### Batch tools
 1. [Converseen](https://github.com/Faster3ck/Converseen)
    Batch convert, resize, rotate, and flip images
